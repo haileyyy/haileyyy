@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hailey cai @haileyyy
 - 👀 I’m interested in Cloud First Solution in utlizaing data engineering toolkit to migriate and transform businesses. 
-- 🌱 I’m currently learning Microsoft Azure AZ-900 Fundamentals and Front-end development. 
+- 🌱 I’m currently working at Accenture as technology architecture senior analyst primarily under Cloud First.
 - 💞️ I’m looking to collaborate on JavaScript, SQL, databases management. 
 - 📫 Reach me at email: caixincxx28@gmail.com
 
